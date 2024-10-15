@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Leonardo and I'm a Programming Student at Instituto Proa</h2>
+<h2 align="center">Hi 👋! My name is Leonardo and welcome to my profile</h2>
 
 ###
 
