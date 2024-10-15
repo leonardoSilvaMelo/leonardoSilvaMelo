@@ -12,16 +12,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardoSilvaMelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=leonardoSilvaMelo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoSilvaMelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
@@ -29,6 +20,8 @@
 <img align="right" height="200" src="https://cdnb.artstation.com/p/assets/images/images/021/188/673/original/pixel-jeff-meow-s-sushi-600.gif?1570717603"  />
 
 ###
+
+<h3 align="left">My Stack ~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,6 +43,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leonardoSilvaMelo/leonardoSilvaMelo/output/snake.svg" alt="Snake animation" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardoSilvaMelo/leonardoSilvaMelo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardoSilvaMelo/leonardoSilvaMelo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonardoSilvaMelo/leonardoSilvaMelo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
