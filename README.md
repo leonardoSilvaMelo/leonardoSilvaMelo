@@ -96,7 +96,7 @@ Olá! Me chamo Leonardo Silva Melo, tenho 18 anos e moro na Zona Leste de São P
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=leonardoSilvaMelo&show_icons=true&theme=ocean_dark&include_all_commits=true&locale=pt-br" 
   />
@@ -104,7 +104,7 @@ Olá! Me chamo Leonardo Silva Melo, tenho 18 anos e moro na Zona Leste de São P
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoSilvaMelo&theme=ocean_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
